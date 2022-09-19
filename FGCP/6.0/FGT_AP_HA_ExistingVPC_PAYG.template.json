@@ -218,13 +218,13 @@
                 "fgtami": "ami-0a97f4194a0515b21"
             },
             "sa-east-1": {
-                "fgtami": "ami-0851b028d263ced22"
+                "fgtami": "ami-088a648de0cf2a8d0"
             },
             "us-east-1": {
-                "fgtami": "ami-0532fcbf3ada1987a"
+                "fgtami": "ami-088a648de0cf2a8d0"
             },
             "us-east-2": {
-                "fgtami": "ami-07c2582e55a222dd3"
+                "fgtami": "ami-088a648de0cf2a8d0"
             },
             "us-west-1": {
                 "fgtami": "ami-0aa77e91cb3eab854"
